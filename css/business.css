@@ -17,7 +17,7 @@
 
 .business_list h1 small{
     font-size: 12px;
-    color: rgb(189, 120, 230);
+    color: rgb(70, 160, 255);
 }
 
 .business_list h2{
@@ -59,7 +59,7 @@
 }
 
 .business_bg{
-    background: rgb(189, 120, 230);
+    background: rgb(70, 160, 255);
     width: 85%;
     height: auto;
     float: right;
@@ -144,8 +144,8 @@
 }
 
 .letter_list h2 small{
-    font-size: 15px;
-    color: rgb(189, 120, 230);
+    font-size: 20px;
+    color: rgb(70, 160, 255);
     text-align: center;
 }
 
